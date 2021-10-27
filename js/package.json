@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "name": "aws-js-helpers",
+  "author": "Raymond Bergholm",
+  "description": "Small code snippets for JS AWS-SDK",
+  "dependencies": {
+    "aws-sdk": "^2.1015.0"
+  },
+  "version": "0.1.0"
+}
